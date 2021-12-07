@@ -28,10 +28,10 @@ class A:
                 # random comment
 
             x = 'a' # print("a")
-        elif x == '':
+        # elif x == '':
             # random comment
 
-            x = 'b' # print("b")
+        #     x = 'b' # print("b")
         else:
             x = 'c' # print("c")
 
