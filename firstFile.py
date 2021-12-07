@@ -40,8 +40,8 @@ def try():
     x = 'x' # input()
     if x == '':
         x = 'a' # print("a")
-    elif x == '':
-        x = 'b' # print("b")
+    # elif x == '':
+    #     x = 'b' # print("b")
     else:
         x = 'c' # print("c")
 
