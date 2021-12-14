@@ -23,7 +23,7 @@ class A:
     # random comment
 
     def try():
-        x = 'x' # input()
+        x = input()
         if x == '':
                 # random comment
 
