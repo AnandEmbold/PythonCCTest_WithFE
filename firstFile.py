@@ -27,7 +27,7 @@ class A:
         if x == '':
                 # random comment
 
-            x = 'a' # print("a")
+            x = print("a")
         # elif x == '':
             # random comment
 
@@ -47,9 +47,9 @@ def try():
 
         
         
-x = 'x' # input()
+x = input()
 if x == '':
-    x = 'a' # print("a")
+    x = print("a")
 # elif x == '':
 #     x = 'b' # print("b")
 else:
